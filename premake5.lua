@@ -1,5 +1,5 @@
 project "structopt"
-	kind "None"
+	kind "StaticLib"
 
 	files {
 		"include/**.hpp"
